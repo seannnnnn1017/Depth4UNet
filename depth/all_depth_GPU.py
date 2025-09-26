@@ -240,7 +240,7 @@ def process_folder(inp,outp):
 
 # ------------------------------------------------------------------
 if __name__=="__main__":
-    INPUT  = r"E:/論文/空拍地圖語意分割/Depth4UNet/AerialImageDataset/test/images"  # 修改為你的輸入資料夾
+    INPUT  = r"E:/重要文件/空拍地圖語意分割/Depth4UNet/AerialImageDataset/test/images"  # 修改為你的輸入資料夾
     OUTPUT = r"depth"                     # 修改為你的輸出資料夾
     if not os.path.exists(INPUT): raise SystemExit("❌ 找不到輸入資料夾")
     process_folder(INPUT,OUTPUT)

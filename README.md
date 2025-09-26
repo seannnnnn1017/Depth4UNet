@@ -38,11 +38,11 @@ Experiments show Depth4UNet outperforms baseline models on **AP, F1-score, and m
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
   <div style="text-align: center;">
-    <img src="figures/fig1_depth_pipeline.png" alt="Original Image" style="width: 95%; height: auto;">
+    <img src="figures/fig1_depth_pipeline.png" alt="Original Image" style="width: 45%; height: auto;">
     <p><strong>Original Image</strong></p>
   </div>
   <div style="text-align: center;">
-    <img src="figures/fig1_depth_pipeline1.png" alt="Depth Map" style="width: 95%; height: auto;">
+    <img src="figures/fig1_depth_pipeline1.png" alt="Depth Map" style="width: 45%; height: auto;">
     <p><strong>Depth Map</strong></p>
   </div>
 </div>
